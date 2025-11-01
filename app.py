@@ -23,7 +23,7 @@ def initialize_session_state(tasks):
 
 
 def render_sidebar_logo():
-    st.sidebar.image("C:/Users/USER/Desktop/STUDIES/Y3S3/FYPPPPP/chatboard logo/1.png")
+    st.sidebar.image("chatboard logo/1.png")
 
 
 def render_sidebar_onboarding_topics(sections):
@@ -161,7 +161,7 @@ def render_chat_interface():
             with st.chat_message("user", avatar="🧑"):
                 st.markdown(msg["content"])
         else:
-            with st.chat_message("assistant", avatar="C:/Users/USER/Desktop/STUDIES/Y3S3/FYPPPPP/chatboard logo/2.png"):
+            with st.chat_message("assistant", avatar="chatboard logo/2.png"):
                 st.markdown(msg["content"])
 
     # 2. Chat input (at the bottom)
