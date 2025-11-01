@@ -1,0 +1,46 @@
+[
+  {
+    "id": "devices",
+    "title": "Procure all devices and equipment",
+    "steps": [
+      "Check your onboarding email for the device list.",
+      "Collect your assigned laptop and access card from IT.",
+      "Verify that your laptop is pre-configured with required software."
+    ],
+    "reminder": "⚠️ Do not forget to collect your devices from the IT department before your first working day!",
+    "next_task_id": "workspace"
+  },
+  {
+    "id": "workspace",
+    "title": "Set up workspace",
+    "steps": [
+      "Choose your workstation or cubicle.",
+      "Plug in all necessary cables and connect peripherals.",
+      "Ensure your desk setup follows ergonomic guidelines."
+    ],
+    "reminder": "💺 Your workspace should be fully set up before orientation day.",
+    "next_task_id": "wifi"
+  },
+  {
+    "id": "wifi",
+    "title": "Set up WiFi access",
+    "steps": [
+      "Connect to the company’s internal WiFi network.",
+      "Enter your temporary login credentials (provided by IT).",
+      "Test your connection by visiting the intranet homepage."
+    ],
+    "reminder": "🌐 Make sure your WiFi access is configured to access internal systems.",
+    "next_task_id": "email"
+  },
+  {
+    "id": "email",
+    "title": "Set up email",
+    "steps": [
+      "Login to the company email portal using your new credentials.",
+      "Update your email password and configure your signature.",
+      "Send a test email to your supervisor to confirm setup."
+    ],
+    "reminder": "📧 Please set up your email before the end of your first day.",
+    "next_task_id": null
+  }
+]

@@ -2,7 +2,7 @@
   {
     "section": "introduction",
     "chunk_id": "introduction_0",
-    "text": "Vision: To be a highly reliable regional professional firm, committed to improving the quality of life of its employees and provide a full range of high-quality, value-added services, delivered by the best and most practical people. Mission: To be the best company to work for, where employees are treated as part of a big family; to leverage technology and the UHY international brand to improve the gross margin; to venture into financial services to enhance the Group's income stream."
+    "text": "The Group's official Vision is: To be a highly reliable regional professional firm. The Group's official Mission is: To leverage technology and the UHY international brand to improve the gross margin; To venture into financial services to enhance the Group's income stream."
   },
   {
     "section": "employment_contract",
@@ -22,7 +22,7 @@
   {
     "section": "employment_contract",
     "chunk_id": "employment_contract_3",
-    "text": "Orientation Program: Conducted by the HR Department for all new employees to help them understand the Group's policies and benefits."
+    "text": "Orientation Program: Conducted by the HR Department for all new employees to help them understand the Group's policies and procedures."
   },
   {
     "section": "employment_contract",
@@ -41,17 +41,17 @@
   },
   {
     "section": "overtime",
-    "chunk_id": "overtime_0",
-    "text": "For overtime, employees with a salary of RM1,500.00 or less per month are entitled to claim overtime allowance. The overtime rate is one and a half (1 1/2) times the hourly pay. For the first hour, payment is calculated in units of 30 minutes, rounded to the nearest 30 minutes."
+    "chunk_id": "overtime_0_allowance",
+    "text": "Overtime Allowance: For employees with a salary of RM1,500.00 or less per month, they are entitled to claim overtime allowance. The overtime rate is one and a half (1 1/2) times the hourly pay. For the first hour, payment is calculated in units of 30 minutes, rounded to the nearest 30 minutes."
+  },
+  {
+    "section": "overtime",
+    "chunk_id": "overtime_0_lieu",
+    "text": "Time-Off-In-Lieu: This is applicable to employees earning RM1,501.00 and above."
   },
   {
     "section": "overtime",
     "chunk_id": "overtime_1",
-    "text": "Time-Off-In-Lieu: Applicable to employees earning RM1,501.00 and above."
-  },
-  {
-    "section": "overtime",
-    "chunk_id": "overtime_2",
     "text": "General claim processes: Employees can claim a meal allowance if they meet the overtime work conditions. Overtime claims must be submitted by the 15th of each month to the Head of SBU/Line Manager for recommendation and then to the HR/Admin Department for verification before final approval from the Group CEO."
   },
   {
@@ -67,61 +67,66 @@
   {
     "section": "salary",
     "chunk_id": "salary_2",
-    "text": "Employee Provident Fund (EPF): The Group contributes 12% of basic salary for all employees. An additional 3% is contributed for employees who have completed more than five years of continuous service."
+    "text": "Salary rules for Employee Provident Fund (EPF): The Group contributes 12% of basic salary for all employees. An additional 3% is contributed for employees who have completed more than five years of continuous service."
   },
   {
     "section": "salary",
     "chunk_id": "salary_3",
-    "text": "Social Security Contribution (SOCSO): The Group contributes to SOCSO as per the Employees' Social Security Organisation Act."
+    "text": "Social Security Contribution (SOCSO): The Group contributes to SOCSO as per the Employees' Social Security Organisation Act.  For the purposes of SOCSO contributions, “wages” are defined as payments made to employees, eg. salary and overtime payments."
   },
   {
     "section": "salary",
     "chunk_id": "salary_4",
-    "text": "Annual increment and bonus payments are based on: the discretion of the group; annual performance appraisal; past performance improvement, dependability, attitude, cooperation, and disciplinary action taken; adherence to all Employment Policies; and the salary range of the employee's position."
+    "text": "The policy for calculating annual increment and bonus payments is based on: the discretion of the group; annual performance appraisal; past performance improvement, dependability, attitude, cooperation, and disciplinary action taken; adherence to all Employment Policies; and the salary range of the employee's position."
   },
   {
     "section": "leave",
-    "chunk_id": "leave_0",
+    "chunk_id": "public_holiday",
     "text": "Federal and State Public Holidays: Employees are entitled to paid holidays on all gazetted Federal and State Public Holidays in their state. If a public holiday falls on a Sunday, the next working day is a replacement holiday. Employees can leave one and a half hours early on the eve of Chinese New Year, Hari Raya Puasa, Hari Raya Haji, Wesak Day, Deepavali, and Christmas Day."
   },
   {
     "section": "leave",
-    "chunk_id": "leave_1",
+    "chunk_id": "annual_leave",
     "text": "Annual Leave: For rest, relaxation, and personal matters. Entitlements are calculated on a calendar year basis. M3 and E1 and above: Less than 2 years of service: 18 days; Between 2-5 years of service: 18 days; More than 5 years of service: 24 days. E2 and below: Less than 2 years of service: 14 days; Between 2-5 years of service: 16 days; More than 5 years of service: 18 days."
   },
   {
     "section": "leave",
-    "chunk_id": "leave_2",
-    "text": "Annual Leave Carry Forward: A confirmed employee who fails to take their leave by the end of the year shall be allowed to carry forward a maximum of five (5) days to the following year. All carried forward leave must be consumed within the first three (3) months of the year, otherwise it shall be forfeited. Leave application requires one (1) week advance notice, or two (2) weeks for leaves more than five (5) working days."
+    "chunk_id": "annual_leave_carry_forward",
+    "text": "Annual Leave Carry Forward: A confirmed employee who fails to take their leave by the end of the year shall be allowed to carry forward a maximum of five (5) days to the following year. All carried forward leave must be consumed within the first three (3) months of the year, otherwise it shall be forfeited."
   },
   {
     "section": "leave",
-    "chunk_id": "leave_3",
+    "chunk_id": "leave_application",
+    "text": "Leave application requires one (1) week advance notice, or two (2) weeks for leaves more than five (5) working days."
+  },
+  {
+    "section": "leave",
+    "chunk_id": "medical_leave",
     "text": "Medical and Hospitalisation Leave: Employees are entitled to paid medical leave based on the Employment Act, 1955, with a recommendation from a Registered Medical Practitioner. Paid Medical leave: Less than 2 years of service = 14 days; 2-5 years of service = 18 days; More than 5 years = 22 days."
   },
   {
     "section": "leave",
-    "chunk_id": "leave_4",
+    "chunk_id": "maternity_leave",
     "text": "Maternity Leave: Female employees are entitled to a maximum of 60 consecutive days of maternity leave, which can be taken before and/or immediately after the day of delivery. To be eligible, she must have worked for 90 days during the 9 months before confinement. Paid maternity leave is granted if conditions are met. Leave for a miscarriage prior to the 28th week is considered normal medical leave."
   },
   {
     "section": "leave",
-    "chunk_id": "leave_5",
+    "chunk_id": "marriage_leave",
     "text": "Marriage Leave: Confirmed employees with at least one year of continuous service are entitled to three working days of paid marriage leave for their first legal marriage."
   },
   {
     "section": "leave",
-    "chunk_id": "leave_6",
+    "chunk_id": "paternity_leave",
     "text": "Paternity Leave: Confirmed male employees with at least one year of continuous service are entitled to two working days of paternity leave for the birth of every child to their first legal wife, up to five deliveries. Documentary evidence (e.g., birth certificate) is required."
   },
   {
     "section": "leave",
-    "chunk_id": "leave_7",
+    "chunk_id": "compassionate_leave",
     "text": "Compassionate Leave: Employees are eligible for two working days of compassionate leave for the death of a family member. The maximum number of compassionate leave days shall not exceed six (6) days per annum."
   },
   {
     "section": "leave",
-    "chunk_id": "leave_8",
+    "chunk_id": "examination_leave",
     "text": "Examination and Study Leave: Employees are eligible for 3 working days of exam/study leave per subject for their first attempt while pursuing Group-approved courses."
   },
   {
@@ -151,18 +156,13 @@
   },
   {
     "section": "incentives",
-    "chunk_id": "incentives_2",
-    "text": "Entertainment Claims: Only employees of job grade M1 and above are entitled to entertainment claims for Group business purposes."
-  },
-  {
-    "section": "incentives",
     "chunk_id": "incentives_3",
-    "text": "Long Service Awards: Rewarded for committed and loyal employees. Periods of No Pay Leave shall not be counted towards the continuous service period."
+    "text": "Long Service Awards: Rewarded for committed and loyal employees. Periods of No Pay Leave shall not be counted towards the continuous service period.  The eligibility for long service awards for employees who have  completed the requisite period of continuous service with disciplinary records shall be at the sole discretion of the Group.  "
   },
   {
     "section": "incentives",
     "chunk_id": "incentives_4",
-    "text": "Recreational Membership Benefit: Core Team members are eligible for one of three types of memberships: Golf Club, Non-Golf Club, or Gym/Beauty."
+    "text": "Recreational Membership Benefit: Core Team members are eligible for one of three types of memberships: Golf Club, Non-Golf Club, or Gym/Beauty. The gym/beauty membership benefit is a one-off gym  membership fee subsidy or beauty package fee subsidy of the actual fee or up to a maximum of RM2,000 per eligible employee, whichever is lower  "
   },
   {
     "section": "incentives",
@@ -177,7 +177,7 @@
   {
     "section": "incentives",
     "chunk_id": "incentives_7",
-    "text": "Commitment Incentive: A confirmed employee who does not utilize any medical and/or emergency leave and has been punctual during the assessment period is eligible for: Medical Leave: RM300; Emergency Leave: RM300; Medical and Emergency Leave: RM1,000. The incentive is paid within two (2) months after the assessment period."
+    "text": "Commitment Incentive: A confirmed employee who has perfect attendance (does not use any medical or emergency days off) and has been punctual is eligible for a cash reward. This incentive is paid within two (2) months after the assessment period."
   },
   {
     "section": "performance",
@@ -192,12 +192,17 @@
   {
     "section": "transfer_promotion",
     "chunk_id": "transfer_promotion_0",
-    "text": "The Group can transfer or second an employee within any section, department, or division based on its operational needs."
+    "text": "The Group can transfer or second an employee within any section, department, or division based on its operational needs. "
   },
   {
     "section": "transfer_promotion",
     "chunk_id": "transfer_promotion_1",
-    "text": "Employees that are promoted must serve a 6-month probation period."
+    "text": "Employees that are promoted must serve a 6-month probation period.  In the event where the employee is unable to perform and meet the higher responsibility and expectations satisfactorily and thus not confirmed in his new position, he shall be reverted to his former position and withdraw his acting allowance without prejudice to his future prospect within the Group. "
+  },
+  {
+    "section": "transfer_promotion",
+    "chunk_id": "transfer_promotion_2",
+    "text": "Promotions are based on an employee's annual performance appraisal, demonstrated leadership skills, and readiness to take on increased responsibilities. Employees must consistently exceed expectations in their Key Performance Indicators (KPIs) to be considered for promotion."
   },
   {
     "section": "rules_regulations",

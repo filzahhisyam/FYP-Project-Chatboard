@@ -1,0 +1,19 @@
+Appointment:
+For every new employee, they will receive an appointment letter from the HR department before starting their duties.
+
+Employee Personal Information:
+Employees should provide updated personal information for record purposes.
+
+Pre-employment medical check-up:
+All new employees must undergo a medical check-up before the letter of employment is issued.
+
+Orientation Program:
+onducted by the HR Department for all new employees to help them understand the Group's policies and benefit.
+
+Departmental Orientation:
+Conducted by the Head of SBU for the new Employee.
+
+Probation and Confirmation:
+- All permanent employees are required to serve a 6-month probation period from the date of appointment.
+- Probationary period may be extended for up to another 6months if the performance does not meet the Group's standards
+- The Group can terminate an employee if they do not fulfull expectations during or end of probation period. 

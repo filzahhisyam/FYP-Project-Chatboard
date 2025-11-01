@@ -1,0 +1,35 @@
+[
+  {
+    "id": "offer",
+    "title": "Submit signed offer letter",
+    "guide": [
+      "Open the offer PDF from your email",
+      "Sign electronically (or print, sign, scan)",
+      "Upload the signed copy to HR portal"
+    ],
+    "link": "https://example.com/forms/offer",
+    "next_task_id": "personal_info"
+  },
+  {
+    "id": "personal_info",
+    "title": "Complete personal information form",
+    "guide": [
+      "Open the personal info form",
+      "Fill in your emergency contact and bank details",
+      "Click submit and take a screenshot for your records"
+    ],
+    "link": "https://example.com/forms/personal",
+    "next_task_id": "read_handbook"
+  },
+  {
+    "id": "read_handbook",
+    "title": "Read company handbook",
+    "guide": [
+      "Open the handbook link",
+      "Read sections: Work Hours, Leave, Salary",
+      "Use the sidebar to jump to any section you want"
+    ],
+    "link": "https://fliphtml5.com/viewer/xxx#p=1",
+    "next_task_id": null
+  }
+]
