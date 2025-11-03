@@ -186,7 +186,7 @@ def answer_question(question):
         if not full_sentence:
             full_sentence = context_text
 
-        return f"📘 From handbook sections: **{source_section}**\n\n{full_sentence}"
+        return f"📘 From handbook section: **{source_section}**\n\n{full_sentence}"
 
 
     # --- 9. Confident direct answer ---
