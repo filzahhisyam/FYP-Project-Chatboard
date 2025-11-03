@@ -1,1 +1,9 @@
-data/embeddings.npy
+#data/embeddings.npy
+__pycache__/
+*.pdf
+backend/retrieval.py
+backend/test_bot.py
+backend/testing.py
+data/train.json
+data/validation.json
+evaluation/
