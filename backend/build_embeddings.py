@@ -22,5 +22,5 @@ model = SentenceTransformer("sentence-transformers/multi-qa-mpnet-base-dot-v1")
 embs = model.encode(texts, convert_to_numpy=True, show_progress_bar=True)
 
 np.save("data/embeddings.npy", embs)
-print(f"✅ Saved {len(embs)} embeddings for {len(chunk_list)} chunks")
+print(f"✅ Save {len(embs)} embeddings for {len(chunk_list)} chunks")
 print(f"✅ Using your corrected chunks from chunks.json")

@@ -138,7 +138,7 @@ def answer_question(question):
     # --- 4. Retrieve ---
     contexts = retrieve(question, top_k=top_k_val, metadata_filter=metadata_filter)
     if not contexts:
-        return "Sorry, I couldn't find any relevant information in the handbook."
+        return "Sorry, I could not find any relevant information in the handbook."
 
     # --- 5. Confidence check ---
     q_emb = embedder.encode([question], convert_to_numpy=True)
@@ -148,7 +148,7 @@ def answer_question(question):
 
     if similarity < 0.3:
         return (
-            "That topic doesn’t seem to be covered in the employee handbook. "
+            "That topic does not seem to be covered in the employee handbook. "
             "Please check with HR for clarification."
         )
 
@@ -186,7 +186,7 @@ def answer_question(question):
         if not full_sentence:
             full_sentence = context_text
 
-        return f"📘 From handbook section: **{source_section}**\n\n{full_sentence}"
+        return f"📘 From handbook sections: **{source_section}**\n\n{full_sentence}"
 
 
     # --- 9. Confident direct answer ---
