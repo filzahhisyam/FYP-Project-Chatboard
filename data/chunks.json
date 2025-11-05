@@ -132,16 +132,26 @@
   {
     "section": "medical_benefits",
     "chunk_id": "medical_benefits_0",
-    "text": "Outpatient and Specialist Medical and Dental Benefits: Medical and specialist benefits are provided to confirmed employees only. Medical Benefit: RM500 per calendar year / RM 50 per visit. Dental Benefit: M1 and above: RM500 per calendar year; M3 and below: RM200 per calendar year. The coverage excludes dental treatment of a cosmetic nature."
+    "text": "Outpatient and Specialist Medical and Dental Benefits: Medical and specialist benefits are provided to confirmed employees only. Medical Benefit: RM500 per calendar year / RM 50 per visit. "
   },
   {
     "section": "medical_benefits",
-    "chunk_id": "medical_benefits_1",
-    "text": "Prolonged Illness: An employee diagnosed with a prolonged illness is entitled to: 1st - 3rd month: Full pay leave; 4th - 6th month: No pay leave. After six months, if still unfit to work, the Group reserves the right to terminate the employment on medical grounds."
+    "chunk_id":"medical_benefits_1",
+    "text": "Dental Benefit: M1 and above: RM500 per calendar year; M3 and below: RM200 per calendar year. The coverage excludes dental treatment of a cosmetic nature."
   },
   {
     "section": "medical_benefits",
     "chunk_id": "medical_benefits_2",
+    "text": "The Group implements a 'Healthy Mind' program as part of a holistic approach for mental health support particularly for  employee well-being, which includes access to counseling services, mindfulness training, and stress management workshops."
+  },
+  {
+    "section": "medical_benefits",
+    "chunk_id": "medical_benefits_3",
+    "text": "Prolonged Illness: An employee diagnosed with a prolonged illness is entitled to: 1st - 3rd month: Full pay leave; 4th - 6th month: No pay leave. After six months, if still unfit to work, the Group reserves the right to terminate the employment on medical grounds."
+  },
+  {
+    "section": "medical_benefits",
+    "chunk_id": "medical_benefits_4",
     "text": "Group Insurance Coverage: The Group provides insurance coverage for confirmed employees. An employee shall be required to obtain a referral letter from a general practitioner to be eligible for the hospitalisation and surgical benefit coverage."
   },
   {
