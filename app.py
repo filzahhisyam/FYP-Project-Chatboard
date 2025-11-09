@@ -1,3 +1,5 @@
+import os
+os.environ["TRANSFORMERS_NO_TF"] = "1"
 import streamlit as st
 from backend.qa_pipeline import answer_question
 import json
@@ -86,7 +88,7 @@ def render_sidebar_preonboarding_tasks(tasks):
         
     st.sidebar.divider()
 
-    st.sidebar.subheader("🧩 Preonboarding Tasks")
+    st.sidebar.subheader("Preonboarding Tasks")
     
     if 'all_complete_last_run' not in st.session_state:
         st.session_state.all_complete_last_run = False

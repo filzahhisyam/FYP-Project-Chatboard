@@ -5,6 +5,21 @@
     "text": "The Group's official Vision is: To be a highly reliable regional professional firm. The Group's official Mission is: To leverage technology and the UHY international brand to improve the gross margin; To venture into financial services to enhance the Group's income stream."
   },
   {
+    "section": "introduction",
+    "chunk_id": "introduction_1",
+    "text": "The Group's mission includes being the best company to work for, where employees are treated as part of a big family, and to increase the number of Partners and core team members." 
+  },
+  {
+    "section": "introduction",
+    "chunk_id": "introduction_2",
+    "text": "This Handbook serves as a guide on the terms and conditions of service, benefits, and related matters for all permanent employees of UHY KL Group." 
+  },
+  {
+    "section": "introduction",
+    "chunk_id": "introduction_3",
+    "text": "The Handbook's General Terms and Conditions (GTC) are not exhaustive, and the Group reserves the right to vary or amend them at its sole discretion, with employees being informed accordingly." 
+  },
+  {
     "section": "employment_contract",
     "chunk_id": "employment_contract_0",
     "text": "Appointment: For every new employee, they will receive an appointment letter from the HR department before starting their duties."
@@ -35,9 +50,24 @@
     "text": "Probation and Confirmation: All permanent employees are required to serve a 6-month probation period from the date of appointment. The probationary period may be extended for up to another 6 months if the performance does not meet the Group's standards. The Group can terminate an employee if they do not fulfill expectations during or at the end of the probation period."
   },
   {
+    "section": "employment_contract",
+    "chunk_id": "employment_contract_6",
+    "text": "The Group has the right to verify information given in the Job Application Form. Any misrepresentation of facts is grounds for immediate dismissal." 
+  },
+  {
+    "section": "employment_contract",
+    "chunk_id": "employment_contract_7",
+    "text": "An employee shall remain on probation as long as the Group has not confirmed the employment in writing." 
+  },
+  {
     "section": "work_hours",
     "chunk_id": "work_hours_0",
     "text": "Normal working hours are Monday to Friday, 8:30 am to 5:30 pm. Lunch break is from 1:00 pm to 2:00 pm."
+  },
+  {
+    "section": "work_hours",
+    "chunk_id": "work_hours_1",
+    "text": "An employee is required to adhere to the specified normal working hours at all times." 
   },
   {
     "section": "overtime",
@@ -55,14 +85,24 @@
     "text": "General claim processes: Employees can claim a meal allowance if they meet the overtime work conditions. Overtime claims must be submitted by the 15th of each month to the Head of SBU/Line Manager for recommendation and then to the HR/Admin Department for verification before final approval from the Group CEO."
   },
   {
+    "section": "overtime",
+    "chunk_id": "overtime_2",
+    "text": "Work done during lunch time, annual leave, medical leave, and other leave of absence is not considered overtime." 
+  },
+  {
+    "section": "overtime",
+    "chunk_id": "overtime_3",
+    "text": "Overtime on Rest Day: An employee who works on a rest day is entitled to payment: up to half normal hours = half day's wage; more than half but not exceeding normal hours = one day's wage." 
+  },
+  {
     "section": "salary",
     "chunk_id": "salary_0",
-    "text": "Payment of salary is done on a monthly basis through the bank designated by the group."
+    "text": "Method of Salary Payment: Payment of salary is done on a monthly basis through the bank designated by the group."
   },
   {
     "section": "salary",
     "chunk_id": "salary_1",
-    "text": "For income tax, the Group will make income tax deductions according to the latest tax schedule. Employees are responsible for settling their own salary tax liabilities unless otherwise specified."
+    "text": "Income Tax: For income tax, the Group will make income tax deductions according to the latest tax schedule. Employees are responsible for settling their own salary tax liabilities unless otherwise specified."
   },
   {
     "section": "salary",
@@ -78,6 +118,16 @@
     "section": "salary",
     "chunk_id": "salary_4",
     "text": "The policy for calculating annual increment and bonus payments is based on: the discretion of the group; annual performance appraisal; past performance improvement, dependability, attitude, cooperation, and disciplinary action taken; adherence to all Employment Policies; and the salary range of the employee's position."
+  },
+  {
+    "section": "salary",
+    "chunk_id": "salary_5",
+    "text": "All fixed income, such as basic salary and fixed allowances, is subject to EPF contributions." 
+  },
+  {
+    "section": "salary",
+    "chunk_id": "salary_6",
+    "text": "Bonus: Annual increment and bonus payment do not constitute a legal entitlement and are granted at the Group's discretion." 
   },
   {
     "section": "leave",
@@ -130,13 +180,33 @@
     "text": "Examination and Study Leave: Employees are eligible for 3 working days of exam/study leave per subject for their first attempt while pursuing Group-approved courses."
   },
   {
+    "section": "leave",
+    "chunk_id": "leave_extension_medical",
+    "text": "If an employee falls ill or is injured while on annual leave, the vacation days can be credited for the certified sick days, provided the Group is notified within 48 hours and prior approval is obtained to extend the vacation." 
+  },
+  {
+    "section": "leave",
+    "chunk_id": "emergency_leave",
+    "text": "Employees are allowed a maximum of three (3) days of emergency leave per year, which is part of their annual leave entitlement. Using more than three days will result in a warning letter." 
+  },
+   {
+    "section": "leave",
+    "chunk_id": "medical_leave_procedure",
+    "text": "An employee on medical leave must inform their Head of SBU/Line Manager and HR/Admin Department of the nature of the illness and expected duration before 10:00 am on the first day of leave." 
+  },
+  {
+    "section": "leave",
+    "chunk_id": "maternity_leave_application",
+    "text": "Maternity leave must be applied for not less than four (4) weeks prior to its commencement." 
+  },
+  {
     "section": "medical_benefits",
     "chunk_id": "medical_benefits_0",
     "text": "Outpatient and Specialist Medical and Dental Benefits: Medical and specialist benefits are provided to confirmed employees only. Medical Benefit: RM500 per calendar year / RM 50 per visit. "
   },
   {
     "section": "medical_benefits",
-    "chunk_id":"medical_benefits_1",
+    "chunk_id": "medical_benefits_1",
     "text": "Dental Benefit: M1 and above: RM500 per calendar year; M3 and below: RM200 per calendar year. The coverage excludes dental treatment of a cosmetic nature."
   },
   {
@@ -147,12 +217,27 @@
   {
     "section": "medical_benefits",
     "chunk_id": "medical_benefits_3",
-    "text": "Prolonged Illness: An employee diagnosed with a prolonged illness is entitled to: 1st - 3rd month: Full pay leave; 4th - 6th month: No pay leave. After six months, if still unfit to work, the Group reserves the right to terminate the employment on medical grounds."
+    "text": "Prolonged Illness: An employee diagnosed with a prolonged illness is entitled to: 1st - 3rd month: Full pay leave; 4th - 6th month: No pay leave. After six months, if the employee still experiences prolonged illness, the Group reserves the right to terminate the employment on medical grounds."
   },
   {
     "section": "medical_benefits",
     "chunk_id": "medical_benefits_4",
     "text": "Group Insurance Coverage: The Group provides insurance coverage for confirmed employees. An employee shall be required to obtain a referral letter from a general practitioner to be eligible for the hospitalisation and surgical benefit coverage."
+  },
+  {
+    "section": "medical_benefits",
+    "chunk_id": "medical_benefits_5",
+    "text": "Medical benefits exclude ophthalmic treatment, pregnancy-related expenses, self-inflicted injuries, attempted suicide, venereal diseases, mental health treatment, and vitamins/supplements." 
+  },
+  {
+    "section": "medical_benefits",
+    "chunk_id": "medical_benefits_6",
+    "text": "Group Personal Accident Insurance provides coverage for accidental death, permanent disablement, and medical expenses, with the sum insured varying by job grade." 
+  },
+  {
+    "section": "medical_benefits",
+    "chunk_id": "medical_benefits_7",
+    "text": "Unutilised medical and dental benefits are forfeited at the end of each calendar year and cannot be carried forward." 
   },
   {
     "section": "incentives",
@@ -195,6 +280,91 @@
     "text": "All employees shall be eligible to attend approved training programmes and/or preferred training programmes up to a maximum of forty (40) training hours (including internal training) except those who are serving their notice period as a result of resignation/domestic inquiries. A Training Needs Analysis shall be conducted annually to determine the training and development requirements of the employees. The employee shall fill in the Training Evaluation Form and submit it to the HR/Admin Department within two (2) working days for monitoring, review and record and provide a copy of the Training Nomination Form to the HR/Admin Department for filing in the employee’s personal file for monitoring and record"
   },
   {
+    "section": "incentives",
+    "chunk_id": "incentives_9",
+    "text": "Entertainment Claims: Only employees of Job Grade M1 and above are entitled to claim for business entertainment. Expenses exceeding RM600 per month or RM200 per receipt require prior CEO approval." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_10",
+    "text": "Client Introduction Incentive: Employees who secure new client deals for the Group are entitled to a cash incentive based on a percentage of the total fees, with higher rates for Core Team members." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_11",
+    "text": "Special Assignment Benefit: Employees working on special assignments may receive a cash prize, with amounts varying based on their role as Team Leader, Assistant Team Leader, or Team Member." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_12",
+    "text": "Outstation Travel Benefits: Employees travelling for business are entitled to economy class flights, mileage claims for own driving, and subsistence allowance based on destination and job grade." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_13",
+    "text": "Subsistence Allowance is payable only if the outstation travel involves an overnight stay or a trip duration of more than eight (8) hours." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_14",
+    "text": "Accommodation for outstation travel is provided as a standard single or double room. Male and female employees are prohibited from sharing the same room." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_15",
+    "text": "Examination Fees: The Group reimburses examination fees for professional qualifications, up to RM500 per annum for Core Team and RM250 for Non-Core Team, for the first attempt only." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_16",
+    "text": "Annual Conference: The Group sponsors eligible senior employees to attend international and regional annual conferences, covering flight, accommodation, and conference fees." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_17",
+    "text": "UHY Forum - Leadership Conference: Core Team members in Job Grade M2 to SM who meet performance criteria may be sponsored to attend this leadership conference in Spain." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_18",
+    "text": "Service Points Fund: An annual fund is allocated to eligible Core Team members based on their performance rating and job grade, calculated via a service points system." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_19",
+    "text": "Travelling Allowance and Interest Subsidy: Employees in Job Grade SM or M1 are entitled to claim up to RM30,000 or RM18,000 per annum respectively for travel and housing loan interest." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_20",
+    "text": "Special Purpose Staff Loan: Core Team members can apply for a loan of up to RM50,000, with approval and repayment terms at the discretion of the Senior Partner." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_21",
+    "text": "Professional Subscription: Confirmed employees of Job Grade E1 and above can claim reimbursement for one annual professional subscription, up to RM1,500 for Core Team and RM250 for others." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_22",
+    "text": "Meal Allowance: Employees can claim RM10 per meal when working overtime on weekdays beyond 9:30 pm or on weekends/public holidays for more than 8 or 13 hours." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_23",
+    "text": "The Group reserves the right to make adjustments to the Group Insurance coverage in accordance with policies made available by the insurance companies." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_24",
+    "text": "An employee serving their notice period of resignation or termination is not entitled to the Commitment Incentive." 
+  },
+  {
+    "section": "incentives",
+    "chunk_id": "incentives_25",
+    "text": "For audit and compliance jobs, the client introduction incentive is payable for the first three years, subject to contract renewal and the employee still being with the Group." 
+  },
+  {
     "section": "performance",
     "chunk_id": "performance_0",
     "text": "Performance Appraisal: The Group has a performance appraisal system to ensure all employees perform at their best. All employees are given Key Performance Indicators (KPIs). Appraisals are conducted at least once a year by the Head of SBU/Line Manager."
@@ -203,6 +373,21 @@
     "section": "performance",
     "chunk_id": "performance_1",
     "text": "Performance Interview: The purpose is to discuss job performance during the previous cycle, plan for future performance objectives, and ensure careful planning and preparation by both the manager and employee."
+  },
+  {
+    "section": "performance",
+    "chunk_id": "performance_2",
+    "text": "If an employee disagrees with their performance evaluation, they are given the opportunity to explain their rationale, and ratings may be changed after consultation." 
+  },
+  {
+    "section": "performance",
+    "chunk_id": "performance_3",
+    "text": "Core Team performance evaluation is weighted 70% on their own/SBU KPIs and 30% on the Group's KPIs." 
+  },
+  {
+    "section": "performance",
+    "chunk_id": "performance_4",
+    "text": "Performance appraisals shall be based on merit, performance, and the achievement of the employee's assigned Key Performance Indicators (KPIs)." 
   },
   {
     "section": "transfer_promotion",
@@ -220,14 +405,154 @@
     "text": "Promotions are based on an employee's annual performance appraisal, demonstrated leadership skills, and readiness to take on increased responsibilities. Employees must consistently exceed expectations in their Key Performance Indicators (KPIs) to be considered for promotion."
   },
   {
+    "section": "transfer_promotion",
+    "chunk_id": "transfer_promotion_3",
+    "text": "An employee who refuses a transfer or secondment order is deemed to have breached their service contract and may face disciplinary action." 
+  },
+  {
+    "section": "code_of_conduct",
+    "chunk_id": "code_of_conduct_0",
+    "text": "Code of Conduct: The Group is committed to the highest standards of ethical business conduct. This Code of Conduct is binding on all employees." 
+  },
+  {
+    "section": "code_of_conduct",
+    "chunk_id": "code_of_conduct_1",
+    "text": "Employees must keep confidential all proprietary information of the Group and its clients, including commercial data and intellectual property." 
+  },
+  {
+    "section": "code_of_conduct",
+    "chunk_id": "code_of_conduct_2",
+    "text": "Employees must not speak to the media or publish anything about the Group or client business unless specifically authorised to do so." 
+  },
+  {
+    "section": "code_of_conduct",
+    "chunk_id": "code_of_conduct_3",
+    "text": "Employees must deal fairly and equitably with colleagues and external contacts, and must not misrepresent themselves or the Group." 
+  },
+  {
+    "section": "code_of_conduct",
+    "chunk_id": "code_of_conduct_4",
+    "text": "Unauthorized copying or use of software and other proprietary information is strictly forbidden and can result in criminal liabilities." 
+  },
+  {
+    "section": "code_of_conduct",
+    "chunk_id": "code_of_conduct_5",
+    "text": "Gifts and Entertainment: Gifts and entertainment shall not be offered or accepted where it could be construed as a bribe. Souvenirs of nominal value are permitted." 
+  },
+  {
+    "section": "code_of_conduct",
+    "chunk_id": "code_of_conduct_6",
+    "text": "Employees should avoid conflicts of interest. A conflict exists if outside interests could influence their actions as an employee of the Group." 
+  },
+  {
+    "section": "code_of_conduct",
+    "chunk_id": "code_of_conduct_7",
+    "text": "Employees may not perform services in competition with the Group or use inside information for personal financial benefit." 
+  },
+  {
+    "section": "code_of_conduct",
+    "chunk_id": "code_of_conduct_8",
+    "text": "A breach of ethical business behaviour is regarded seriously and may result in immediate disciplinary action or dismissal." 
+  },
+  {
+    "section": "code_of_conduct",
+    "chunk_id": "code_of_conduct_9",
+    "text": "Employees must use the Group's and clients' resources only for relevant business purposes, both physical and non-physical." 
+  },
+  {
+    "section": "code_of_conduct",
+    "chunk_id": "code_of_conduct_10",
+    "text": "Employees must keep accurate and sufficient records organised to inform fairly and honestly those who need the information for Group or client business." 
+  },
+  {
+    "section": "it_policy",
+    "chunk_id": "it_policy_0",
+    "text": "Employees are prohibited from installing their own software on the Group's computing resources or using illegal licensed software." 
+  },
+  {
+    "section": "it_policy",
+    "chunk_id": "it_policy_1",
+    "text": "Using the Group's computing resources for commercial purposes, harassment, intimidation, or threats is strictly forbidden." 
+  },
+  {
+    "section": "it_policy",
+    "chunk_id": "it_policy_2",
+    "text": "Employees must respect the privacy of other users. Files, emails, and data owned by others are considered private." 
+  },
+  {
+    "section": "it_policy",
+    "chunk_id": "it_policy_3",
+    "text": "Employees must obey copyright laws, licenses, and confidentiality agreements for all software and data on Group systems." 
+  },
+  {
+    "section": "it_policy",
+    "chunk_id": "it_policy_4",
+    "text": "Playing games on company computers is prohibited at all times during employment." 
+  },
+  {
+    "section": "it_policy",
+    "chunk_id": "it_policy_5",
+    "text": "Employees must not attempt to modify or remove computer equipment, or attempt to degrade or disrupt system security or performance." 
+  },
+  {
     "section": "rules_regulations",
     "chunk_id": "rules_regulations_0",
-    "text": "Grounds for Disciplinary Action: Examples of major misconducts include: Disclosing confidential information without authorisation; Habitual absence without leave, or absence for more than three (3) consecutive working days; Misappropriation of Group funds."
+    "text": "Examples of major misconducts include: Disclosing confidential information without authorisation; Habitual absence without leave, or absence for more than three (3) consecutive working days; Misappropriation of Group funds."
   },
   {
     "section": "rules_regulations",
     "chunk_id": "rules_regulations_1",
     "text": "Disciplinary Action: The Head of SBU may impose: Verbal warning; Written warning; Final written warning; Formal action (including suspension with/without pay, reduction of salary, dismissal with notice, or filing a legal suit)."
+  },
+  {
+    "section": "rules_regulations",
+    "chunk_id": "rules_regulations_2",
+    "text": "General Principles of Natural Justice: No disciplinary action will be taken without investigation. The employee will be given details of the matter and an opportunity to be heard." 
+  },
+  {
+    "section": "rules_regulations",
+    "chunk_id": "rules_regulations_3",
+    "text": "During an investigation, an employee may be suspended from work until a decision is reached." 
+  },
+  {
+    "section": "rules_regulations",
+    "chunk_id": "rules_regulations_4",
+    "text": "Examples of minor misconduct: coming late for work, leaving work early without permission, and improper care of Group property." 
+  },
+  {
+    "section": "rules_regulations",
+    "chunk_id": "rules_regulations_5",
+    "text": "Disciplinary measures are executed progressively, starting with verbal warnings and potentially leading to dismissal for serious or repeated offences." 
+  },
+  {
+    "section": "rules_regulations",
+    "chunk_id": "rules_regulations_6",
+    "text": "An employee can appeal a written warning or other formal disciplinary action by requesting a review by the Senior Partner/Group CEO within seven (7) working days." 
+  },
+  {
+    "section": "rules_regulations",
+    "chunk_id": "rules_regulations_7",
+    "text": "A serious misconduct shall be construed as the occurrence of a major misconduct or a repetition of minor misconducts." 
+  },
+  {
+    "section": "grievance_procedure",
+    "chunk_id": "grievance_procedure_0",
+    "text": "Grievance Policy: The Group's policy is to settle any grievance at the point of origin. The HR/Admin Department is available to assist at all stages." 
+  },
+  {
+    "section": "grievance_procedure",
+    "chunk_id": "grievance_procedure_1",
+    "text": "Grievance Procedure - Stage I: An employee must first discuss their grievance with their immediate superior or Head of SBU." 
+  },
+  {
+    "section": "grievance_procedure",
+    "chunk_id": "grievance_procedure_2",
+    "text": "Grievance Procedure - Stage II: If unresolved within 3 working days, the employee can submit a request to the HR Department to arrange a meeting with the Senior Partner/Group CEO." 
+  },
+  {
+    "section": "grievance_procedure",
+    "chunk_id": "grievance_procedure_3",
+    "text": "Following a Stage II grievance meeting, the Senior Partner/Group CEO will provide a decision to the employee within three (3) working days." 
   },
   {
     "section": "leaving",
@@ -258,5 +583,60 @@
     "section": "leaving",
     "chunk_id": "leaving_5",
     "text": "Exit Interview: When an employee leaves the company, they may be asked to attend an exit interview with the Head of SBU."
+  },
+  {
+    "section": "leaving",
+    "chunk_id": "leaving_6",
+    "text": "The Group reserves the right to terminate an employee for poor performance or failure to achieve minimum targets set." 
+  },
+  {
+    "section": "leaving",
+    "chunk_id": "leaving_7",
+    "text": "Upon termination, the Group can offset any outstanding liabilities, loans, or obligations from the employee's final payments, including salary and leave balances." 
+  },
+  {
+    "section": "leaving",
+    "chunk_id": "leaving_8",
+    "text": "The Group reserves the right to carry out any retrenchment exercise, and the award of retrenchment benefits is at its sole discretion." 
+  },
+  {
+    "section": "leaving",
+    "chunk_id": "leaving_9",
+    "text": "The Group may, at its discretion, offer re-employment on a contractual basis to an employee who has reached the retirement age of 55." 
+  },
+  {
+    "section": "definitions",
+    "chunk_id": "definitions_0",
+    "text": "All reference to the 'Group' shall refer to the UHY KL Group of Companies or the individual company in the Group." 
+  },
+  {
+    "section": "definitions",
+    "chunk_id": "definitions_1",
+    "text": "All reference to the 'Employee' shall include any person who is employed under a contract of service by the Group." 
+  },
+  {
+    "section": "definitions",
+    "chunk_id": "definitions_2",
+    "text": "All reference to 'Immediate Family' shall include parents, a legal spouse, and dependent children. If an employee has more than one legal wife, only the first wife is included." 
+  },
+  {
+    "section": "definitions",
+    "chunk_id": "definitions_3",
+    "text": "All reference to 'Core Team Members' means employees officially identified as such, requiring at least two years of service, a degree, high performance, and completion of specific courses." 
+  },
+  {
+    "section": "definitions",
+    "chunk_id": "definitions_4",
+    "text": "All reference to 'Strategic Business Unit' (SBU) shall mean a business unit in the Group that is a profit centre." 
+  },
+  {
+    "section": "definitions",
+    "chunk_id": "definitions_5",
+    "text": "All reference to 'Calendar Year' shall mean the period from 1st January to 31st December of the same year." 
+  },
+  {
+    "section": "amendments",
+    "chunk_id": "amendments_0",
+    "text": "Amendments to the Handbook may be made from time to time and will be conveyed to employees via Group circular." 
   }
 ]
